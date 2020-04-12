@@ -63,3 +63,7 @@ The API has just 1 endpoint which returns a list of top news sources names (_sor
     ```bash
     docker-compose up --build
     ```
+
+#### Note
+
+_This project was created to be submitted as an assignment, and is not one of my personal projects._
