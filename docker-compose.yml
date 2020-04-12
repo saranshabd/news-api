@@ -7,4 +7,4 @@ services:
     container_name: locals_digital_services
     restart: always
     ports:
-    - 8081:8081
+    - 8082:8082
